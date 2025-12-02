@@ -15,4 +15,4 @@ SpecOps is a methodology for using AI to modernize legacy government systems by 
 
 ---
 
-📖 [Documentation](https://spec-ops.ai) • 💬 [Discussions](https://github.com/orgs/spec-ops-method/discussions) • 🚀 [Get Started](https://spec-ops.ai/methodology)
+📖 [Documentation]([https://spec-ops.ai](https://github.com/spec-ops-method/spec-ops/tree/main/public)) • 💬 [Discussions]([https://github.com/orgs/spec-ops-method/discussions](https://github.com/spec-ops-method/spec-ops/discussions)) • 🚀 [Get Started]([https://spec-ops.ai/methodology](https://github.com/spec-ops-method/spec-ops/blob/main/public/METHODOLOGY.md))
